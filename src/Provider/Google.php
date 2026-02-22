@@ -36,6 +36,8 @@ class Google extends AbstractProvider
      */
     protected $scopes = [];
 
+    public array $defaultScopes = [];
+
     public function getBaseAuthorizationUrl(): string
     {
         return 'https://accounts.google.com/o/oauth2/v2/auth';
