@@ -1,7 +1,7 @@
 OAuth 2.0 Google Provider Changelog
 
 
-## To be released
+## 5.0.0 - 2026-03-23
 
 ### Fixed
 
